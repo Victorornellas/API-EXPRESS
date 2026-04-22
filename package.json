@@ -1,0 +1,17 @@
+{
+  "name": "api-express",
+  "version": "1.0.0",
+  "description": "Criando um API REST com Node.js",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "Victor Hugo",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.12",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.4"
+  }
+}
